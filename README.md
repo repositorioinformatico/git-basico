@@ -1,4 +1,5 @@
 # git-basico
+```
 mkdir cursogit
 cd cursogit
 mkdir 01
@@ -14,3 +15,4 @@ git add . (alias de añadir todo)
 git commit -m "Mensaje descriptivo Corto" (commiteamos)
 git commit (abrirá el editor por defecto de tu terminal)
 git diff
+```
